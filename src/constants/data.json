@@ -1,0 +1,251 @@
+{
+    "London": [
+      {
+        "imageurl": "https://example.com/london/property1.jpg",
+        "location": "123 Main Street, London",
+        "name": "Luxury Apartment in Central London",
+        "num_rooms": 3,
+        "num_beds": 2,
+        "num_baths": 2,
+        "area_size_sqft": 1500,
+        "rent": 2500
+      },
+      {
+        "imageurl": "https://example.com/london/property2.jpg",
+        "location": "456 Elm Street, London",
+        "name": "Spacious Townhouse in London Suburb",
+        "num_rooms": 5,
+        "num_beds": 4,
+        "num_baths": 3,
+        "area_size_sqft": 2200,
+        "rent": 3200
+      },
+      {
+        "imageurl": "https://example.com/london/property3.jpg",
+        "location": "789 Oak Avenue, London",
+        "name": "Studio Apartment near Hyde Park",
+        "num_rooms": 2,
+        "num_beds": 1,
+        "num_baths": 1,
+        "area_size_sqft": 800,
+        "rent": 1500
+      },
+      {
+        "imageurl": "https://example.com/london/property4.jpg",
+        "location": "1011 Maple Lane, London",
+        "name": "Penthouse with Thames River View",
+        "num_rooms": 4,
+        "num_beds": 3,
+        "num_baths": 3,
+        "area_size_sqft": 2800,
+        "rent": 4000
+      },
+      {
+        "imageurl": "https://example.com/london/property5.jpg",
+        "location": "1314 Pine Street, London",
+        "name": "Victorian Era House in London",
+        "num_rooms": 6,
+        "num_beds": 5,
+        "num_baths": 4,
+        "area_size_sqft": 3500,
+        "rent": 5000
+      },
+      {
+        "imageurl": "https://example.com/london/property6.jpg",
+        "location": "1516 Cedar Road, London",
+        "name": "Modern Apartment with Balcony",
+        "num_rooms": 2,
+        "num_beds": 1,
+        "num_baths": 2,
+        "area_size_sqft": 1100,
+        "rent": 1800
+      }
+    ],
+    "Mumbai": [
+      {
+        "imageurl": "https://example.com/mumbai/property1.jpg",
+        "location": "123 Beach Road, Mumbai",
+        "name": "Seaside Villa with Pool",
+        "num_rooms": 6,
+        "num_beds": 4,
+        "num_baths": 5,
+        "area_size_sqft": 4000,
+        "rent": 7500
+      },
+      {
+        "imageurl": "https://example.com/mumbai/property2.jpg",
+        "location": "456 Hillside Avenue, Mumbai",
+        "name": "Luxurious High-Rise Apartment",
+        "num_rooms": 4,
+        "num_beds": 3,
+        "num_baths": 3,
+        "area_size_sqft": 2200,
+        "rent": 5000
+      },
+      {
+        "imageurl": "https://example.com/mumbai/property3.jpg",
+        "location": "789 Garden Street, Mumbai",
+        "name": "Cozy Studio in the City Center",
+        "num_rooms": 1,
+        "num_beds": 1,
+        "num_baths": 1,
+        "area_size_sqft": 600,
+        "rent": 1200
+      },
+      {
+        "imageurl": "https://example.com/mumbai/property4.jpg",
+        "location": "1011 Lakeside Drive, Mumbai",
+        "name": "Modern Penthouse with Ocean View",
+        "num_rooms": 5,
+        "num_beds": 4,
+        "num_baths": 4,
+        "area_size_sqft": 2800,
+        "rent": 6000
+      },
+      {
+        "imageurl": "https://example.com/mumbai/property5.jpg",
+        "location": "1314 Skyline Road, Mumbai",
+        "name": "Bungalow in a Gated Community",
+        "num_rooms": 7,
+        "num_beds": 6,
+        "num_baths": 5,
+        "area_size_sqft": 5000,
+        "rent": 9000
+      },
+      {
+        "imageurl": "https://example.com/mumbai/property6.jpg",
+        "location": "1516 Cliffside Lane, Mumbai",
+        "name": "Affordable Apartment with Amenities",
+        "num_rooms": 2,
+        "num_beds": 1,
+        "num_baths": 2,
+        "area_size_sqft": 1100,
+        "rent": 1800
+      }
+    ],
+    "Paris": [
+      {
+        "imageurl": "https://example.com/paris/property1.jpg",
+        "location": "123 Eiffel Tower Avenue, Paris",
+        "name": "Elegant Apartment with a View",
+        "num_rooms": 4,
+        "num_beds": 3,
+        "num_baths": 2,
+        "area_size_sqft": 1800,
+        "rent": 3500
+      },
+      {
+        "imageurl": "https://example.com/paris/property2.jpg",
+        "location": "456 Louvre Street, Paris",
+        "name": "Charming Parisian Townhouse",
+        "num_rooms": 5,
+        "num_beds": 4,
+        "num_baths": 3,
+        "area_size_sqft": 2200,
+        "rent": 4500
+      },
+      {
+        "imageurl": "https://example.com/paris/property3.jpg",
+        "location": "789 Montmartre Road, Paris",
+        "name": "Studio in Historic Montmartre",
+        "num_rooms": 1,
+        "num_beds": 1,
+        "num_baths": 1,
+        "area_size_sqft": 600,
+        "rent": 1500
+      },
+      {
+        "imageurl": "https://example.com/paris/property4.jpg",
+        "location": "1011 Seine River Lane, Paris",
+        "name": "Riverside Penthouse with Terrace",
+        "num_rooms": 3,
+        "num_beds": 2,
+        "num_baths": 2,
+        "area_size_sqft": 1400,
+        "rent": 2800
+      },
+      {
+        "imageurl": "https://example.com/paris/property5.jpg",
+        "location": "1314 Champs-Élysées Street, Paris",
+        "name": "Luxury Condo on Champs-Élysées",
+        "num_rooms": 4,
+        "num_beds": 3,
+        "num_baths": 3,
+        "area_size_sqft": 2000,
+        "rent": 4000
+      },
+      {
+        "imageurl": "https://example.com/paris/property6.jpg",
+        "location": "1516 Notre-Dame Road, Paris",
+        "name": "Modern Apartment in Notre-Dame District",
+        "num_rooms": 2,
+        "num_beds": 1,
+        "num_baths": 2,
+        "area_size_sqft": 1000,
+        "rent": 2000
+      }
+    ],
+    "New York": [
+      {
+        "imageurl": "https://example.com/new-york/property1.jpg",
+        "location": "123 Broadway, New York",
+        "name": "Downtown Loft with City Views",
+        "num_rooms": 3,
+        "num_beds": 2,
+        "num_baths": 2,
+        "area_size_sqft": 1500,
+        "rent": 3500
+      },
+      {
+        "imageurl": "https://example.com/new-york/property2.jpg",
+        "location": "456 Park Avenue, New York",
+        "name": "Luxury Condo in Upper East Side",
+        "num_rooms": 5,
+        "num_beds": 4,
+        "num_baths": 4,
+        "area_size_sqft": 2500,
+        "rent": 5500
+      },
+      {
+        "imageurl": "https://example.com/new-york/property3.jpg",
+        "location": "789 Wall Street, New York",
+        "name": "Studio Apartment in Financial District",
+        "num_rooms": 1,
+        "num_beds": 1,
+        "num_baths": 1,
+        "area_size_sqft": 600,
+        "rent": 2000
+      },
+      {
+        "imageurl": "https://example.com/new-york/property4.jpg",
+        "location": "1011 Central Park West, New York",
+        "name": "Central Park View Penthouse",
+        "num_rooms": 4,
+        "num_beds": 3,
+        "num_baths": 3,
+        "area_size_sqft": 2000,
+        "rent": 6000
+      },
+      {
+        "imageurl": "https://example.com/new-york/property5.jpg",
+        "location": "1314 Fifth Avenue, New York",
+        "name": "Brownstone in Harlem",
+        "num_rooms": 6,
+        "num_beds": 5,
+        "num_baths": 4,
+        "area_size_sqft": 3000,
+        "rent": 4500
+      },
+      {
+        "imageurl": "https://example.com/new-york/property6.jpg",
+        "location": "1516 Brooklyn Street, New York",
+        "name": "Modern Apartment in Brooklyn",
+        "num_rooms": 2,
+        "num_beds": 1,
+        "num_baths": 1,
+        "area_size_sqft": 800,
+        "rent": 1800
+      }
+    ]
+  }
+  
