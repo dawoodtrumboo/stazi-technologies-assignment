@@ -5,7 +5,7 @@ import { faHourglass } from '@fortawesome/free-regular-svg-icons';
 
 const Paris = (props) => {
   const [visibleCards, setVisibleCards] = useState(6); // Initial number of cards to display
-  const cardsToLoad = 2; // Number of cards to load each time the button is clicked
+  const cardsToLoad = 3; // Number of cards to load each time the button is clicked
 
   const loadMoreCards = () => {
     // Calculate the new number of visible cards
