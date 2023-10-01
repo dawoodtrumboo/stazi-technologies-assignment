@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App bg-[#F4F5FD] h-screen flex flex-col items-center px-[120px] !overflow-x-hidden ">
 
-      <div className="w-[340px] flex flex-col items-center ">
+      <div className="w-[340px] flex flex-col items-center text-gray-700 ">
         <h1 className="text-[28px] font-bold">Featured Listed Property</h1>
         <p className="text-[10px] text-center font-semibold">Real estate can be bought, sold, leased or rented, and can be a 
           valuable investment oppurtunity. The value of real estate can be...</p>
