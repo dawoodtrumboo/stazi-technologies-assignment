@@ -13,8 +13,9 @@ const CityCards = ({cityData}) => {
                     <FontAwesomeIcon icon={faHeart} size='xs' color='#3639E4'/>
                 </div>
             </div>
-            <img src='https://images.unsplash.com/photo-1603034351978-7a9f3fa5abe6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGxvbmRvbiUyMGNpdHl8ZW58MHx8MHx8fDA%3D&w=1000&q=80'
-            alt='city'/>
+            <img src={cityData.imageurl}
+            alt='city'
+            className='w-[120%] h-[100%]'/>
         </div>
         <div className='p-3 space-y-3'>
 
@@ -23,7 +24,7 @@ const CityCards = ({cityData}) => {
                 <span>{cityData.location}</span>
             </div>
 
-            <div className='font-semibold text-[18px]'>
+            <div className='font-semibold text-[16px]'>
                 {cityData.name}
             </div>
 
